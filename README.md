@@ -3,13 +3,13 @@
 Repository of work samples from professional experience at Lumida, SharpeFi and during my Quantitative Finance MBA at NYU.
 
 **Table of Contents**
-1. Token Research
-2. Data Pipeline
-3. Dashboards
-4. Strategy Testing
-5. Portfolio Analysis
-6. CIO Calendar
-7. SEC Howey Test Framework
+1. [Token Research](#1-token-research)
+2. [Data Pipeline](#2-data-pipeline)
+3. [Dashboards](#3-dashboards)
+4. [Strategy Testing](#4-strategy-testing)
+5. [Portfolio Analysis](#5-portfolio-analysis)
+6. [CIO Calendar](#6-cio-calendar)
+
 
 ### 1. Token Research
 *** 
