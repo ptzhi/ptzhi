@@ -32,32 +32,41 @@ Conducted preliminary analysis, initial coverage, and ongoing due diligence for 
 ### 2. Data Pipeline
 *** 
 
-DeFi: Pulled and organized 
+DeFi: Pulled and organized protocol TVL data from DefiLlama   
 TradFi: Pulled financial statement and historical data from IEX cloud and yfinance.
 
 
 ### 3. Dashboards
 *** 
 
-Built dashboards to track macro indicators, strategy performance, and token specific analytics. 
-- Cap-weighted index overbought/oversold on spread
-- Multicoin: price, drawdowns, rolling returns, vol, and correlation
-- 
+Sample Dashboard: [Open Dashboard](http://lumida-dev.herokuapp.com/ "Dashboard")
+
+Built dashboards to track macro indicators, strategy performance, and token specific analytics for internal and clients, such as
+- L2 Scaling Solutions On-chain Activity (Polygon, Arbitrum, Optimism)
+- Ethereum Name Service (ENS) Traction
+- Multicoin Price Characteristics
+- Momentum Strategy Performance
+
+All dashboards were built either in Dash or Excel.
 
 ### 4. CIO Calendar
 *** 
 
-Online version (static): [Open Calendar](https://docs.google.com/spreadsheets/d/e/2PACX-1vSdD8Vez3OWVP5aRnBF5Sv7ST8xFBJCs6INSCfk-Thpn7VytqzTqrMoj6qwpxtM3DZJq9KADG3oqFOl/pubhtml?gid=1503319837&single=true "CIO Calendar")
+Sample Calendar: [Open Calendar](https://docs.google.com/spreadsheets/d/e/2PACX-1vSdD8Vez3OWVP5aRnBF5Sv7ST8xFBJCs6INSCfk-Thpn7VytqzTqrMoj6qwpxtM3DZJq9KADG3oqFOl/pubhtml?gid=1503319837&single=true "CIO Calendar")
+
+The goal was to have both important TradFi macro indicators and crypto events at the same place for our co-CIOs to stay up to date on both worlds. The methodology I used was a combination of scraping and Coindar API, fed into Google Sheets. The sample is a static web snapshot of a filterable workbook.
 
 ### 5. Portfolio Analysis
 *** 
+Sample Markowtiz: See Excel file in repository
 
-See excel
+Constructed portfolios across various token parameters, such as market cap tier and category membership, with different portfolio optimization methods such as Markowitz Mean-Variance and inverse rolling volatility.
 
-### 6. Strategy Construction + Backtesting
+### 6. Strategy Backtesting
 *** 
 
-See notebook
+Tested portfolio strategies that could be executed in TradFi, focusing on mega-cap tokens in particular BTC. 
+
 
 ### 7. SEC Howey Test Framework
 *** 
