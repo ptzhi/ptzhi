@@ -32,10 +32,8 @@ Conducted preliminary analysis, initial coverage, and ongoing due diligence for 
   - Arweave 
 - Oracles
   - Chainlink
-- Web3 services:
-  - Ethereum Name Service (Initial Coverage)
 
-Snapshot of Ethereum Name Service Due Diligence interactive report:
+Snapshot of due diligence report applied to Ethereum Name Service:
 <img width="1029" alt="Screenshot 2023-02-28 at 1 55 10 PM" src="https://user-images.githubusercontent.com/88797350/221951872-5955a1bc-1d0c-40b9-97b0-90a4cff39785.png">
 
 
