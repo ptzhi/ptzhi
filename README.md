@@ -14,7 +14,7 @@ Repository of work samples from professional experience at Lumida, SharpeFi and 
 ### 1. Token Research
 *** 
 
-Conducted preliminary analysis, initial coverage, and ongoing due diligence for tokens, protocols, and themes for client requests and internal needs as digital assets researcher. Format include PDFs as well as interactive webapp reports for the following tokens:
+Conducted preliminary analysis, initial coverage, and ongoing due diligence for tokens, protocols, and themes for client requests and internal needs. Format include PDFs as well as interactive webapp reports for the following tokens:
 - L0s:
   - Polkadot
 - L1 Smart Chains:
