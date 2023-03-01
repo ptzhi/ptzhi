@@ -1,6 +1,6 @@
 # Portfolio
 
-Repository of work samples from professional experience at Lumida, SharpeFi and during my Quantitative Finance MBA at NYU. All work shown are with public sample data to be used for illustrative purposes.
+Repository of work samples from professional experience at Lumida, SharpeFi and during my Quantitative Finance MBA at NYU. All work samples shown use publicly available data.
 
 **Table of Contents**
 1. [Token Research](#1-token-research)
@@ -36,6 +36,8 @@ Conducted preliminary analysis, initial coverage, and ongoing due diligence for 
 Snapshot of due diligence report applied to Ethereum Name Service:
 <img width="1029" alt="Screenshot 2023-02-28 at 1 55 10 PM" src="https://user-images.githubusercontent.com/88797350/221951872-5955a1bc-1d0c-40b9-97b0-90a4cff39785.png">
 
+<img width="1029" alt="Screenshot 2023-02-28 at 9 12 42 PM" src="https://user-images.githubusercontent.com/88797350/222027099-0c3690c5-5b64-4e62-968f-a2cbf022aaca.png">
+
 
 
 ## 2. Data Pipeline
@@ -65,6 +67,8 @@ Tested crypto portfolio strategies that could be executed off-chain with TradFi 
 
 Snapshot of Portfolio bebalancing on momentum indicators:
 <img width="1660" alt="Screenshot 2023-02-28 at 1 42 32 PM" src="https://user-images.githubusercontent.com/88797350/221948838-a7d7ab0f-7189-47e2-badc-914a04021567.png">
+
+<img width="1660" alt="Screenshot 2023-02-28 at 9 20 49 PM" src="https://user-images.githubusercontent.com/88797350/222028557-3eada438-dd53-47a5-9051-ced9c7406e38.png">
 
 
 ## 5. Portfolio Analysis
