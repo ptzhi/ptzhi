@@ -33,7 +33,7 @@ Conducted preliminary analysis, initial coverage, and ongoing due diligence for 
 - Oracles
   - Chainlink
 
-Snapshot of due diligence report applied to Ethereum Name Service:
+Example of due diligence report applied to Ethereum Name Service (not covered professionally):
 <img width="1029" alt="Screenshot 2023-02-28 at 1 55 10 PM" src="https://user-images.githubusercontent.com/88797350/221951872-5955a1bc-1d0c-40b9-97b0-90a4cff39785.png">
 
 <img width="1029" alt="Screenshot 2023-02-28 at 9 12 42 PM" src="https://user-images.githubusercontent.com/88797350/222027099-0c3690c5-5b64-4e62-968f-a2cbf022aaca.png">
@@ -63,26 +63,32 @@ Snapshot of dashboard built in Dash:
 ## 4. Strategy Testing
 *** 
 
+### BTC-USD Momentum Spread Exploration: [Download HTML](https://drive.google.com/file/d/1BwzUfVdJTS_yML3QuQBxmXqypb68QWNp/view?usp=sharing)    
+### BTC-USD Shorting with S2F Reversion: [Open PDF](https://drive.google.com/file/d/1r3bbnS8mzP_NgXSLaNJItdnbMXUY_HB9/view?usp=sharing)  
+### BTC-USD US-KOR Exchange "Arbitrage": [Download Excel File](https://docs.google.com/spreadsheets/d/1rr_LkY_O6WUzBRUMiE-REFZwGq3t5p3z/edit?usp=sharing&ouid=105213381457788155217&rtpof=true&sd=true)
+
 Tested crypto portfolio strategies that could be executed off-chain with TradFi institutions, focusing on mega-cap tokens in particular BTC. Conducted analysis in Jupyter Lab.
 
-Snapshot of Portfolio bebalancing on momentum indicators:
+Snapshot of Portfolio rebalancing on momentum indicators:
 <img width="1660" alt="Screenshot 2023-02-28 at 1 42 32 PM" src="https://user-images.githubusercontent.com/88797350/221948838-a7d7ab0f-7189-47e2-badc-914a04021567.png">
-
-<img width="1660" alt="Screenshot 2023-02-28 at 9 20 49 PM" src="https://user-images.githubusercontent.com/88797350/222028557-3eada438-dd53-47a5-9051-ced9c7406e38.png">
 
 
 ## 5. Portfolio Analysis
 *** 
+
+### Sample Portfolio :[Download Excel File](https://docs.google.com/spreadsheets/d/1bYM-_Z9dFsJpnb1ImRKwCZ5BpDDnojty/edit?usp=sharing&ouid=105213381457788155217&rtpof=true&sd=true)    
+
+
 Constructed portfolios across various token parameters, such as market cap tier and category membership, with different portfolio optimization methods such as Markowitz Mean-Variance and inverse rolling volatility.
 
-Snapshot of portfolio with Markowitz Excel workbook:
+Snapshot of portfolio with provided Markowitz Excel workbook:
 <img width="1526" alt="Screenshot 2023-02-28 at 2 11 06 PM" src="https://user-images.githubusercontent.com/88797350/221955257-bcec44b9-c03f-4b01-8887-6f073df40d58.png">
 
 
 ## 6. CIO Calendar
 *** 
 
-**Calendar Webview (static): [Open Calendar](https://docs.google.com/spreadsheets/d/e/2PACX-1vSdD8Vez3OWVP5aRnBF5Sv7ST8xFBJCs6INSCfk-Thpn7VytqzTqrMoj6qwpxtM3DZJq9KADG3oqFOl/pubhtml?gid=1503319837&single=true "CIO Calendar")**
+### Calendar Webview (static): [Open Calendar](https://docs.google.com/spreadsheets/d/e/2PACX-1vSdD8Vez3OWVP5aRnBF5Sv7ST8xFBJCs6INSCfk-Thpn7VytqzTqrMoj6qwpxtM3DZJq9KADG3oqFOl/pubhtml?gid=1503319837&single=true "CIO Calendar")
 
 The goal was to have both important TradFi macro indicators and crypto events at the same place for our co-CIOs to stay up to date on both worlds. The methodology I used was a combination of scraping and Coindar API, fed into Google Sheets. 
 
