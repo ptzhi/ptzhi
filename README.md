@@ -1,10 +1,10 @@
 # Portfolio
 
-Repository of work samples from professional experience at Lumida, SharpeFi and during my Quantitative Finance MBA at NYU. All work samples shown use publicly available data.
+Repository of work samples from professional experience at Lumida, SharpeFi and from my Quantitative Finance MBA at NYU. All work samples shown use publicly available data.
 
 **Table of Contents**
 1. [Token Research](#1-token-research)
-2. [Data Pipeline](#2-data-pipeline)
+2. [DeFi Research](#2-defi-research)
 3. [Dashboards](#3-dashboards)
 4. [Strategy Testing](#4-strategy-testing)
 5. [Portfolio Analysis](#5-portfolio-analysis)
@@ -14,36 +14,22 @@ Repository of work samples from professional experience at Lumida, SharpeFi and 
 ## 1. Token Research
 *** 
 
-Conducted preliminary analysis, initial coverage, and ongoing due diligence for tokens, protocols, and themes for client requests and internal needs. Format include PDFs as well as interactive webapp reports for the following tokens:
-- L0s:
-  - Polkadot
-- L1 Smart Chains:
-  - Solana 
-  - Cardano (Initial Coverage + Valuation)
-- L2 Scaling Solutions:
-  - Polygon (Initial Coverage)
-  - Arbitrum 
-  - Optimism
-- Decentralized Finance:
-  - Aave 
-  - Maker
-- Decentralized Storage:
-  - Filecoin
-  - Arweave 
-- Oracles
-  - Chainlink
+Conducted preliminary analysis, initial coverage, and ongoing due diligence for tokens, protocols, and themes for client requests and internal needs. Format include PDFs as well as interactive webapp reports for tokens/protocols in L0s, L1s, L2s, DeFi, Decentralized Storage, Oracles, and Gaming.
 
-Example of due diligence report applied to Ethereum Name Service (not covered professionally):
-<img width="1029" alt="Screenshot 2023-02-28 at 1 55 10 PM" src="https://user-images.githubusercontent.com/88797350/221951872-5955a1bc-1d0c-40b9-97b0-90a4cff39785.png">
+Example of due diligence for Ethereum Name Service:
+<img width="800" alt="Screenshot 2023-02-28 at 1 55 10 PM" src="https://user-images.githubusercontent.com/88797350/221951872-5955a1bc-1d0c-40b9-97b0-90a4cff39785.png">
 
-<img width="1029" alt="Screenshot 2023-02-28 at 9 12 42 PM" src="https://user-images.githubusercontent.com/88797350/222027099-0c3690c5-5b64-4e62-968f-a2cbf022aaca.png">
+<img width="800" alt="Screenshot 2023-02-28 at 9 12 42 PM" src="https://user-images.githubusercontent.com/88797350/222027099-0c3690c5-5b64-4e62-968f-a2cbf022aaca.png">
 
 
-
-## 2. Data Pipeline
+## 2. DeFi Research
 *** 
-Built pipeline through AWS S3 for TradFi and DeFi data for analysts to use with both Python or Excel. APIs used include Coin Metrics, DefiLlama, Messari Pro, yfinance, IEX, Trading Economics, Coindar.      
-For deep dive into Ethereum protocols or double check data, set up Web3.py library and Brownie/Infura Mainnet clone.
+
+### Impermament Loss: [View Notebook](https://nbviewer.org/github/ptzhi/defi-primitives/blob/main/notebooks/impermanent-loss.ipynb)
+
+Built DeFi models in shared Jupyter notebooks for research. Provided sample impermanent loss model on simplified AMM.
+
+<img width="1270" alt="image" src="https://user-images.githubusercontent.com/88797350/224512582-a079bbb1-c222-4933-ae10-7af824fd8809.png">
 
 
 ## 3. Dashboards
@@ -67,7 +53,7 @@ Snapshot of dashboard built in Dash:
 ### BTC-USD Shorting with S2F Reversion: [Open PDF](https://drive.google.com/file/d/1r3bbnS8mzP_NgXSLaNJItdnbMXUY_HB9/view?usp=sharing)  
 ### BTC-USD US-KOR Exchange "Arbitrage": [Download Excel File](https://docs.google.com/spreadsheets/d/1rr_LkY_O6WUzBRUMiE-REFZwGq3t5p3z/edit?usp=sharing&ouid=105213381457788155217&rtpof=true&sd=true)
 
-Tested crypto portfolio strategies that could be executed off-chain with TradFi institutions, focusing on mega-cap tokens in particular BTC. Conducted analysis in Jupyter Lab.
+Tested crypto portfolio strategies that could be executed off-chain with TradFi institutions, focusing on mega-cap tokens in particular BTC.
 
 Snapshot of Portfolio rebalancing on momentum indicators:
 <img width="1660" alt="Screenshot 2023-02-28 at 1 42 32 PM" src="https://user-images.githubusercontent.com/88797350/221948838-a7d7ab0f-7189-47e2-badc-914a04021567.png">
