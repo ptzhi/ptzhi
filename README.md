@@ -4,7 +4,7 @@ Passionate about blockhain technology, DeFi, and TradFi. Currently an investment
 Please check out `lumida-research` repository for portfolio / work samples. `lumida-dev` is a dev env dashboard to play with charts prior to deployment. Ongoing exploration in DeFi and strategies can be found in `defi-primitives` and `strategy-testing`. Other repos are fun projects and will help you get free things.
 
 ### Contact
-Telegram: @peterzhi    
+Telegram: [@peterzhi](https://t.me/peterzhi)    
 Email: pz.peterzhi@gmail.com      
 CV: [View PDF](https://drive.google.com/file/d/1dGIWz4FvBsJZybc_8H0vuj5tfGfvJ1pP/view?usp=sharing)    
 
